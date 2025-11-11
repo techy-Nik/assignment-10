@@ -224,6 +224,9 @@ docker tag assignment10-app techynik/assignment10:latest
 # Push to Docker Hub
 docker push techynik/assignment10:latest
 ```
+### Docker REPOSITORY
+- REPO: https://hub.docker.com/repository/docker/techynik/module10/general
+
 
 ---
 
@@ -349,7 +352,7 @@ This project is created for educational purposes as part of Assignment 10.
 
 ## 👤 Author
 
-**Nikhil (techy-Nik)**
+**Nikunj (techy-Nik)**
 - GitHub: [@techy-Nik](https://github.com/techy-Nik)
 - Repository: [assignment-10](https://github.com/techy-Nik/assignment-10)
 
